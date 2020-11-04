@@ -1,6 +1,11 @@
-Integrantes: Agustin bernheim, Alejandro de Moraiz, Rodolfo solari
+Integrantes: Agustin Bernheim, Alejandro de Moraiz, Rodolfo solari
 
 A_ Color de fondo azul en rama testing
 B_ Color de fondo amarillo en rama desarrollo
 C_ Color de fondo azul
 D_ Quedo el favicon de beta 
+E_ Si, beta y gamma 
+F_ Beta y gamma tuvieron que modificar index.html para que queden los cambios mientras estaban en merging
+G_ Actualizar y modificar de nuevo el archivo que estamos intentando pushear.
+H_ Se pushea a la fuerza y se crea un pull request
+I_ Se debe hacer un merge desde el testing al desarrollo
