@@ -1,0 +1,6 @@
+Integrantes: Agustin bernheim, Alejandro de Moraiz, Rodolfo solari
+
+A_ Color de fondo azul en rama testing
+B_ Color de fondo amarillo en rama desarrollo
+C_ Color de fondo azul
+D_ Quedo el favicon de beta 
